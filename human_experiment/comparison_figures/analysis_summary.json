@@ -1,0 +1,40 @@
+{
+  "participants": [
+    "Allegra",
+    "Blake Edwards",
+    "Craig",
+    "Mark",
+    "Mitch"
+  ],
+  "num_participants": 5,
+  "num_trials": 210,
+  "trials_per_participant": 42,
+  "correlation": {
+    "pearson_rating_vs_prob": {
+      "r": 0.3135923877093191,
+      "p": 1.2650345769288048e-20
+    },
+    "pearson_prob_vs_prob": {
+      "r": 0.3884277764944767,
+      "p": 1.2214725684477699e-31
+    },
+    "spearman_rating_vs_prob": {
+      "rho": 0.3260717975757054,
+      "p": 2.933145538853346e-22
+    },
+    "n_datapoints": 840
+  },
+  "accuracy_rule_based": {
+    "human": 0.4714285714285714,
+    "model": 0.9523809523809523
+  },
+  "accuracy_manifest_based": {
+    "human": 0.5857142857142857,
+    "model": 0.9523809523809523,
+    "avg_equivalent_options": 1.4285714285714286
+  },
+  "kl_divergence": {
+    "mean": 1.4738640308916675,
+    "std": 1.6265243724479732
+  }
+}

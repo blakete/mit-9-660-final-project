@@ -1,0 +1,1318 @@
+{
+  "trials": [
+    {
+      "trial_id": "rule_005_t1",
+      "rule_number": 5,
+      "time_step": 1,
+      "candidate_probabilities": [
+        {
+          "probability": 0.25,
+          "is_correct": true,
+          "option_id": "opt_0",
+          "rule": 5
+        },
+        {
+          "probability": 0.25,
+          "is_correct": false,
+          "option_id": "opt_1",
+          "rule": 6
+        },
+        {
+          "probability": 0.25,
+          "is_correct": false,
+          "option_id": "opt_2",
+          "rule": 19
+        },
+        {
+          "probability": 0.25,
+          "is_correct": false,
+          "option_id": "opt_3",
+          "rule": 239
+        }
+      ]
+    },
+    {
+      "trial_id": "rule_005_t2",
+      "rule_number": 5,
+      "time_step": 2,
+      "candidate_probabilities": [
+        {
+          "probability": 0.25,
+          "is_correct": true,
+          "option_id": "opt_0",
+          "rule": 5
+        },
+        {
+          "probability": 0.25,
+          "is_correct": false,
+          "option_id": "opt_1",
+          "rule": 6
+        },
+        {
+          "probability": 0.25,
+          "is_correct": false,
+          "option_id": "opt_2",
+          "rule": 33
+        },
+        {
+          "probability": 0.25,
+          "is_correct": false,
+          "option_id": "opt_3",
+          "rule": 93
+        }
+      ]
+    },
+    {
+      "trial_id": "rule_005_t3",
+      "rule_number": 5,
+      "time_step": 3,
+      "candidate_probabilities": [
+        {
+          "probability": 0.25,
+          "is_correct": true,
+          "option_id": "opt_0",
+          "rule": 5
+        },
+        {
+          "probability": 0.25,
+          "is_correct": false,
+          "option_id": "opt_1",
+          "rule": 4
+        },
+        {
+          "probability": 0.25,
+          "is_correct": false,
+          "option_id": "opt_2",
+          "rule": 43
+        },
+        {
+          "probability": 0.25,
+          "is_correct": false,
+          "option_id": "opt_3",
+          "rule": 113
+        }
+      ]
+    },
+    {
+      "trial_id": "rule_005_t4",
+      "rule_number": 5,
+      "time_step": 4,
+      "candidate_probabilities": [
+        {
+          "probability": 0.25,
+          "is_correct": true,
+          "option_id": "opt_0",
+          "rule": 5
+        },
+        {
+          "probability": 0.25,
+          "is_correct": false,
+          "option_id": "opt_1",
+          "rule": 4
+        },
+        {
+          "probability": 0.25,
+          "is_correct": false,
+          "option_id": "opt_2",
+          "rule": 62
+        },
+        {
+          "probability": 0.25,
+          "is_correct": false,
+          "option_id": "opt_3",
+          "rule": 123
+        }
+      ]
+    },
+    {
+      "trial_id": "rule_005_t5",
+      "rule_number": 5,
+      "time_step": 5,
+      "candidate_probabilities": [
+        {
+          "probability": 0.25,
+          "is_correct": true,
+          "option_id": "opt_0",
+          "rule": 5
+        },
+        {
+          "probability": 0.25,
+          "is_correct": false,
+          "option_id": "opt_1",
+          "rule": 6
+        },
+        {
+          "probability": 0.25,
+          "is_correct": false,
+          "option_id": "opt_2",
+          "rule": 132
+        },
+        {
+          "probability": 0.25,
+          "is_correct": false,
+          "option_id": "opt_3",
+          "rule": 2
+        }
+      ]
+    },
+    {
+      "trial_id": "rule_005_t6",
+      "rule_number": 5,
+      "time_step": 6,
+      "candidate_probabilities": [
+        {
+          "probability": 0.25,
+          "is_correct": true,
+          "option_id": "opt_0",
+          "rule": 5
+        },
+        {
+          "probability": 0.25,
+          "is_correct": false,
+          "option_id": "opt_1",
+          "rule": 6
+        },
+        {
+          "probability": 0.25,
+          "is_correct": false,
+          "option_id": "opt_2",
+          "rule": 51
+        },
+        {
+          "probability": 0.25,
+          "is_correct": false,
+          "option_id": "opt_3",
+          "rule": 78
+        }
+      ]
+    },
+    {
+      "trial_id": "rule_030_t1",
+      "rule_number": 30,
+      "time_step": 1,
+      "candidate_probabilities": [
+        {
+          "probability": 0.25,
+          "is_correct": true,
+          "option_id": "opt_0",
+          "rule": 30
+        },
+        {
+          "probability": 0.25,
+          "is_correct": false,
+          "option_id": "opt_1",
+          "rule": 31
+        },
+        {
+          "probability": 0.25,
+          "is_correct": false,
+          "option_id": "opt_2",
+          "rule": 90
+        },
+        {
+          "probability": 0.25,
+          "is_correct": false,
+          "option_id": "opt_3",
+          "rule": 232
+        }
+      ]
+    },
+    {
+      "trial_id": "rule_030_t2",
+      "rule_number": 30,
+      "time_step": 2,
+      "candidate_probabilities": [
+        {
+          "probability": 0.4993708321772558,
+          "is_correct": true,
+          "option_id": "opt_0",
+          "rule": 30
+        },
+        {
+          "probability": 0.4993708321772558,
+          "is_correct": false,
+          "option_id": "opt_1",
+          "rule": 31
+        },
+        {
+          "probability": 0.0006291678227441996,
+          "is_correct": false,
+          "option_id": "opt_2",
+          "rule": 122
+        },
+        {
+          "probability": 0.0006291678227441996,
+          "is_correct": false,
+          "option_id": "opt_3",
+          "rule": 8
+        }
+      ]
+    },
+    {
+      "trial_id": "rule_030_t3",
+      "rule_number": 30,
+      "time_step": 3,
+      "candidate_probabilities": [
+        {
+          "probability": 0.9985598275178894,
+          "is_correct": true,
+          "option_id": "opt_0",
+          "rule": 30
+        },
+        {
+          "probability": 0.00048005749403685894,
+          "is_correct": false,
+          "option_id": "opt_1",
+          "rule": 29
+        },
+        {
+          "probability": 0.00048005749403685894,
+          "is_correct": false,
+          "option_id": "opt_2",
+          "rule": 90
+        },
+        {
+          "probability": 0.00048005749403685894,
+          "is_correct": false,
+          "option_id": "opt_3",
+          "rule": 44
+        }
+      ]
+    },
+    {
+      "trial_id": "rule_030_t4",
+      "rule_number": 30,
+      "time_step": 4,
+      "candidate_probabilities": [
+        {
+          "probability": 0.9985598275178894,
+          "is_correct": true,
+          "option_id": "opt_0",
+          "rule": 30
+        },
+        {
+          "probability": 0.00048005749403685894,
+          "is_correct": false,
+          "option_id": "opt_1",
+          "rule": 31
+        },
+        {
+          "probability": 0.00048005749403685894,
+          "is_correct": false,
+          "option_id": "opt_2",
+          "rule": 150
+        },
+        {
+          "probability": 0.00048005749403685894,
+          "is_correct": false,
+          "option_id": "opt_3",
+          "rule": 137
+        }
+      ]
+    },
+    {
+      "trial_id": "rule_030_t5",
+      "rule_number": 30,
+      "time_step": 5,
+      "candidate_probabilities": [
+        {
+          "probability": 0.9985598275178894,
+          "is_correct": true,
+          "option_id": "opt_0",
+          "rule": 30
+        },
+        {
+          "probability": 0.00048005749403685894,
+          "is_correct": false,
+          "option_id": "opt_1",
+          "rule": 31
+        },
+        {
+          "probability": 0.00048005749403685894,
+          "is_correct": false,
+          "option_id": "opt_2",
+          "rule": 90
+        },
+        {
+          "probability": 0.00048005749403685894,
+          "is_correct": false,
+          "option_id": "opt_3",
+          "rule": 136
+        }
+      ]
+    },
+    {
+      "trial_id": "rule_030_t6",
+      "rule_number": 30,
+      "time_step": 6,
+      "candidate_probabilities": [
+        {
+          "probability": 0.9985598275178894,
+          "is_correct": true,
+          "option_id": "opt_0",
+          "rule": 30
+        },
+        {
+          "probability": 0.00048005749403685894,
+          "is_correct": false,
+          "option_id": "opt_1",
+          "rule": 31
+        },
+        {
+          "probability": 0.00048005749403685894,
+          "is_correct": false,
+          "option_id": "opt_2",
+          "rule": 26
+        },
+        {
+          "probability": 0.00048005749403685894,
+          "is_correct": false,
+          "option_id": "opt_3",
+          "rule": 57
+        }
+      ]
+    },
+    {
+      "trial_id": "rule_032_t1",
+      "rule_number": 32,
+      "time_step": 1,
+      "candidate_probabilities": [
+        {
+          "probability": 0.0008712970203747309,
+          "is_correct": true,
+          "option_id": "opt_0",
+          "rule": 32
+        },
+        {
+          "probability": 0.0008712970203747309,
+          "is_correct": false,
+          "option_id": "opt_1",
+          "rule": 33
+        },
+        {
+          "probability": 0.9973861089388759,
+          "is_correct": false,
+          "option_id": "opt_2",
+          "rule": 0
+        },
+        {
+          "probability": 0.0008712970203747309,
+          "is_correct": false,
+          "option_id": "opt_3",
+          "rule": 212
+        }
+      ]
+    },
+    {
+      "trial_id": "rule_032_t2",
+      "rule_number": 32,
+      "time_step": 2,
+      "candidate_probabilities": [
+        {
+          "probability": 0.4996318680920939,
+          "is_correct": true,
+          "option_id": "opt_0",
+          "rule": 32
+        },
+        {
+          "probability": 0.0003681319079060785,
+          "is_correct": false,
+          "option_id": "opt_1",
+          "rule": 33
+        },
+        {
+          "probability": 0.4996318680920939,
+          "is_correct": false,
+          "option_id": "opt_2",
+          "rule": 136
+        },
+        {
+          "probability": 0.0003681319079060785,
+          "is_correct": false,
+          "option_id": "opt_3",
+          "rule": 65
+        }
+      ]
+    },
+    {
+      "trial_id": "rule_032_t3",
+      "rule_number": 32,
+      "time_step": 3,
+      "candidate_probabilities": [
+        {
+          "probability": 0.33328176810222604,
+          "is_correct": true,
+          "option_id": "opt_0",
+          "rule": 32
+        },
+        {
+          "probability": 0.00015469569332184513,
+          "is_correct": false,
+          "option_id": "opt_1",
+          "rule": 31
+        },
+        {
+          "probability": 0.33328176810222604,
+          "is_correct": false,
+          "option_id": "opt_2",
+          "rule": 248
+        },
+        {
+          "probability": 0.33328176810222604,
+          "is_correct": false,
+          "option_id": "opt_3",
+          "rule": 158
+        }
+      ]
+    },
+    {
+      "trial_id": "rule_032_t4",
+      "rule_number": 32,
+      "time_step": 4,
+      "candidate_probabilities": [
+        {
+          "probability": 0.33328176810222604,
+          "is_correct": true,
+          "option_id": "opt_0",
+          "rule": 32
+        },
+        {
+          "probability": 0.00015469569332184513,
+          "is_correct": false,
+          "option_id": "opt_1",
+          "rule": 33
+        },
+        {
+          "probability": 0.33328176810222604,
+          "is_correct": false,
+          "option_id": "opt_2",
+          "rule": 254
+        },
+        {
+          "probability": 0.33328176810222604,
+          "is_correct": false,
+          "option_id": "opt_3",
+          "rule": 62
+        }
+      ]
+    },
+    {
+      "trial_id": "rule_032_t5",
+      "rule_number": 32,
+      "time_step": 5,
+      "candidate_probabilities": [
+        {
+          "probability": 0.33328176810222604,
+          "is_correct": true,
+          "option_id": "opt_0",
+          "rule": 32
+        },
+        {
+          "probability": 0.00015469569332184513,
+          "is_correct": false,
+          "option_id": "opt_1",
+          "rule": 31
+        },
+        {
+          "probability": 0.33328176810222604,
+          "is_correct": false,
+          "option_id": "opt_2",
+          "rule": 160
+        },
+        {
+          "probability": 0.33328176810222604,
+          "is_correct": false,
+          "option_id": "opt_3",
+          "rule": 88
+        }
+      ]
+    },
+    {
+      "trial_id": "rule_032_t6",
+      "rule_number": 32,
+      "time_step": 6,
+      "candidate_probabilities": [
+        {
+          "probability": 0.49976802823008476,
+          "is_correct": true,
+          "option_id": "opt_0",
+          "rule": 32
+        },
+        {
+          "probability": 0.00023197176991521145,
+          "is_correct": false,
+          "option_id": "opt_1",
+          "rule": 31
+        },
+        {
+          "probability": 0.00023197176991521145,
+          "is_correct": false,
+          "option_id": "opt_2",
+          "rule": 251
+        },
+        {
+          "probability": 0.49976802823008476,
+          "is_correct": false,
+          "option_id": "opt_3",
+          "rule": 90
+        }
+      ]
+    },
+    {
+      "trial_id": "rule_054_t1",
+      "rule_number": 54,
+      "time_step": 1,
+      "candidate_probabilities": [
+        {
+          "probability": 0.25,
+          "is_correct": true,
+          "option_id": "opt_0",
+          "rule": 54
+        },
+        {
+          "probability": 0.25,
+          "is_correct": false,
+          "option_id": "opt_1",
+          "rule": 53
+        },
+        {
+          "probability": 0.25,
+          "is_correct": false,
+          "option_id": "opt_2",
+          "rule": 110
+        },
+        {
+          "probability": 0.25,
+          "is_correct": false,
+          "option_id": "opt_3",
+          "rule": 56
+        }
+      ]
+    },
+    {
+      "trial_id": "rule_054_t2",
+      "rule_number": 54,
+      "time_step": 2,
+      "candidate_probabilities": [
+        {
+          "probability": 0.25,
+          "is_correct": true,
+          "option_id": "opt_0",
+          "rule": 54
+        },
+        {
+          "probability": 0.25,
+          "is_correct": false,
+          "option_id": "opt_1",
+          "rule": 55
+        },
+        {
+          "probability": 0.25,
+          "is_correct": false,
+          "option_id": "opt_2",
+          "rule": 106
+        },
+        {
+          "probability": 0.25,
+          "is_correct": false,
+          "option_id": "opt_3",
+          "rule": 77
+        }
+      ]
+    },
+    {
+      "trial_id": "rule_054_t3",
+      "rule_number": 54,
+      "time_step": 3,
+      "candidate_probabilities": [
+        {
+          "probability": 0.25,
+          "is_correct": true,
+          "option_id": "opt_0",
+          "rule": 54
+        },
+        {
+          "probability": 0.25,
+          "is_correct": false,
+          "option_id": "opt_1",
+          "rule": 53
+        },
+        {
+          "probability": 0.25,
+          "is_correct": false,
+          "option_id": "opt_2",
+          "rule": 110
+        },
+        {
+          "probability": 0.25,
+          "is_correct": false,
+          "option_id": "opt_3",
+          "rule": 220
+        }
+      ]
+    },
+    {
+      "trial_id": "rule_054_t4",
+      "rule_number": 54,
+      "time_step": 4,
+      "candidate_probabilities": [
+        {
+          "probability": 0.25,
+          "is_correct": true,
+          "option_id": "opt_0",
+          "rule": 54
+        },
+        {
+          "probability": 0.25,
+          "is_correct": false,
+          "option_id": "opt_1",
+          "rule": 55
+        },
+        {
+          "probability": 0.25,
+          "is_correct": false,
+          "option_id": "opt_2",
+          "rule": 106
+        },
+        {
+          "probability": 0.25,
+          "is_correct": false,
+          "option_id": "opt_3",
+          "rule": 68
+        }
+      ]
+    },
+    {
+      "trial_id": "rule_054_t5",
+      "rule_number": 54,
+      "time_step": 5,
+      "candidate_probabilities": [
+        {
+          "probability": 0.25,
+          "is_correct": true,
+          "option_id": "opt_0",
+          "rule": 54
+        },
+        {
+          "probability": 0.25,
+          "is_correct": false,
+          "option_id": "opt_1",
+          "rule": 55
+        },
+        {
+          "probability": 0.25,
+          "is_correct": false,
+          "option_id": "opt_2",
+          "rule": 110
+        },
+        {
+          "probability": 0.25,
+          "is_correct": false,
+          "option_id": "opt_3",
+          "rule": 206
+        }
+      ]
+    },
+    {
+      "trial_id": "rule_054_t6",
+      "rule_number": 54,
+      "time_step": 6,
+      "candidate_probabilities": [
+        {
+          "probability": 0.25,
+          "is_correct": true,
+          "option_id": "opt_0",
+          "rule": 54
+        },
+        {
+          "probability": 0.25,
+          "is_correct": false,
+          "option_id": "opt_1",
+          "rule": 53
+        },
+        {
+          "probability": 0.25,
+          "is_correct": false,
+          "option_id": "opt_2",
+          "rule": 106
+        },
+        {
+          "probability": 0.25,
+          "is_correct": false,
+          "option_id": "opt_3",
+          "rule": 197
+        }
+      ]
+    },
+    {
+      "trial_id": "rule_060_t1",
+      "rule_number": 60,
+      "time_step": 1,
+      "candidate_probabilities": [
+        {
+          "probability": 0.25,
+          "is_correct": true,
+          "option_id": "opt_0",
+          "rule": 60
+        },
+        {
+          "probability": 0.25,
+          "is_correct": false,
+          "option_id": "opt_1",
+          "rule": 59
+        },
+        {
+          "probability": 0.25,
+          "is_correct": false,
+          "option_id": "opt_2",
+          "rule": 154
+        },
+        {
+          "probability": 0.25,
+          "is_correct": false,
+          "option_id": "opt_3",
+          "rule": 238
+        }
+      ]
+    },
+    {
+      "trial_id": "rule_060_t2",
+      "rule_number": 60,
+      "time_step": 2,
+      "candidate_probabilities": [
+        {
+          "probability": 0.9973861089388759,
+          "is_correct": true,
+          "option_id": "opt_0",
+          "rule": 60
+        },
+        {
+          "probability": 0.0008712970203747309,
+          "is_correct": false,
+          "option_id": "opt_1",
+          "rule": 59
+        },
+        {
+          "probability": 0.0008712970203747309,
+          "is_correct": false,
+          "option_id": "opt_2",
+          "rule": 26
+        },
+        {
+          "probability": 0.0008712970203747309,
+          "is_correct": false,
+          "option_id": "opt_3",
+          "rule": 192
+        }
+      ]
+    },
+    {
+      "trial_id": "rule_060_t3",
+      "rule_number": 60,
+      "time_step": 3,
+      "candidate_probabilities": [
+        {
+          "probability": 0.9986094596449376,
+          "is_correct": true,
+          "option_id": "opt_0",
+          "rule": 60
+        },
+        {
+          "probability": 0.00046351345168735313,
+          "is_correct": false,
+          "option_id": "opt_1",
+          "rule": 61
+        },
+        {
+          "probability": 0.00046351345168735313,
+          "is_correct": false,
+          "option_id": "opt_2",
+          "rule": 126
+        },
+        {
+          "probability": 0.00046351345168735313,
+          "is_correct": false,
+          "option_id": "opt_3",
+          "rule": 33
+        }
+      ]
+    },
+    {
+      "trial_id": "rule_060_t4",
+      "rule_number": 60,
+      "time_step": 4,
+      "candidate_probabilities": [
+        {
+          "probability": 0.9986094596449376,
+          "is_correct": true,
+          "option_id": "opt_0",
+          "rule": 60
+        },
+        {
+          "probability": 0.00046351345168735313,
+          "is_correct": false,
+          "option_id": "opt_1",
+          "rule": 61
+        },
+        {
+          "probability": 0.00046351345168735313,
+          "is_correct": false,
+          "option_id": "opt_2",
+          "rule": 22
+        },
+        {
+          "probability": 0.00046351345168735313,
+          "is_correct": false,
+          "option_id": "opt_3",
+          "rule": 50
+        }
+      ]
+    },
+    {
+      "trial_id": "rule_060_t5",
+      "rule_number": 60,
+      "time_step": 5,
+      "candidate_probabilities": [
+        {
+          "probability": 0.9986094596449376,
+          "is_correct": true,
+          "option_id": "opt_0",
+          "rule": 60
+        },
+        {
+          "probability": 0.00046351345168735313,
+          "is_correct": false,
+          "option_id": "opt_1",
+          "rule": 59
+        },
+        {
+          "probability": 0.00046351345168735313,
+          "is_correct": false,
+          "option_id": "opt_2",
+          "rule": 126
+        },
+        {
+          "probability": 0.00046351345168735313,
+          "is_correct": false,
+          "option_id": "opt_3",
+          "rule": 70
+        }
+      ]
+    },
+    {
+      "trial_id": "rule_060_t6",
+      "rule_number": 60,
+      "time_step": 6,
+      "candidate_probabilities": [
+        {
+          "probability": 0.9986094596449376,
+          "is_correct": true,
+          "option_id": "opt_0",
+          "rule": 60
+        },
+        {
+          "probability": 0.00046351345168735313,
+          "is_correct": false,
+          "option_id": "opt_1",
+          "rule": 61
+        },
+        {
+          "probability": 0.00046351345168735313,
+          "is_correct": false,
+          "option_id": "opt_2",
+          "rule": 18
+        },
+        {
+          "probability": 0.00046351345168735313,
+          "is_correct": false,
+          "option_id": "opt_3",
+          "rule": 120
+        }
+      ]
+    },
+    {
+      "trial_id": "rule_108_t1",
+      "rule_number": 108,
+      "time_step": 1,
+      "candidate_probabilities": [
+        {
+          "probability": 0.0009970089727494157,
+          "is_correct": true,
+          "option_id": "opt_0",
+          "rule": 108
+        },
+        {
+          "probability": 0.0009970089727494157,
+          "is_correct": false,
+          "option_id": "opt_1",
+          "rule": 107
+        },
+        {
+          "probability": 0.0009970089727494157,
+          "is_correct": false,
+          "option_id": "opt_2",
+          "rule": 154
+        },
+        {
+          "probability": 0.9970089730817517,
+          "is_correct": false,
+          "option_id": "opt_3",
+          "rule": 170
+        }
+      ]
+    },
+    {
+      "trial_id": "rule_108_t2",
+      "rule_number": 108,
+      "time_step": 2,
+      "candidate_probabilities": [
+        {
+          "probability": 0.9962344696656228,
+          "is_correct": true,
+          "option_id": "opt_0",
+          "rule": 108
+        },
+        {
+          "probability": 0.0012551767781257895,
+          "is_correct": false,
+          "option_id": "opt_1",
+          "rule": 109
+        },
+        {
+          "probability": 0.0012551767781257895,
+          "is_correct": false,
+          "option_id": "opt_2",
+          "rule": 58
+        },
+        {
+          "probability": 0.0012551767781257895,
+          "is_correct": false,
+          "option_id": "opt_3",
+          "rule": 165
+        }
+      ]
+    },
+    {
+      "trial_id": "rule_108_t3",
+      "rule_number": 108,
+      "time_step": 3,
+      "candidate_probabilities": [
+        {
+          "probability": 0.9986094596449376,
+          "is_correct": true,
+          "option_id": "opt_0",
+          "rule": 108
+        },
+        {
+          "probability": 0.00046351345168735313,
+          "is_correct": false,
+          "option_id": "opt_1",
+          "rule": 107
+        },
+        {
+          "probability": 0.00046351345168735313,
+          "is_correct": false,
+          "option_id": "opt_2",
+          "rule": 156
+        },
+        {
+          "probability": 0.00046351345168735313,
+          "is_correct": false,
+          "option_id": "opt_3",
+          "rule": 77
+        }
+      ]
+    },
+    {
+      "trial_id": "rule_108_t4",
+      "rule_number": 108,
+      "time_step": 4,
+      "candidate_probabilities": [
+        {
+          "probability": 0.9986094596449376,
+          "is_correct": true,
+          "option_id": "opt_0",
+          "rule": 108
+        },
+        {
+          "probability": 0.00046351345168735313,
+          "is_correct": false,
+          "option_id": "opt_1",
+          "rule": 109
+        },
+        {
+          "probability": 0.00046351345168735313,
+          "is_correct": false,
+          "option_id": "opt_2",
+          "rule": 36
+        },
+        {
+          "probability": 0.00046351345168735313,
+          "is_correct": false,
+          "option_id": "opt_3",
+          "rule": 24
+        }
+      ]
+    },
+    {
+      "trial_id": "rule_108_t5",
+      "rule_number": 108,
+      "time_step": 5,
+      "candidate_probabilities": [
+        {
+          "probability": 0.9986094596449376,
+          "is_correct": true,
+          "option_id": "opt_0",
+          "rule": 108
+        },
+        {
+          "probability": 0.00046351345168735313,
+          "is_correct": false,
+          "option_id": "opt_1",
+          "rule": 107
+        },
+        {
+          "probability": 0.00046351345168735313,
+          "is_correct": false,
+          "option_id": "opt_2",
+          "rule": 27
+        },
+        {
+          "probability": 0.00046351345168735313,
+          "is_correct": false,
+          "option_id": "opt_3",
+          "rule": 185
+        }
+      ]
+    },
+    {
+      "trial_id": "rule_108_t6",
+      "rule_number": 108,
+      "time_step": 6,
+      "candidate_probabilities": [
+        {
+          "probability": 0.9986094596449376,
+          "is_correct": true,
+          "option_id": "opt_0",
+          "rule": 108
+        },
+        {
+          "probability": 0.00046351345168735313,
+          "is_correct": false,
+          "option_id": "opt_1",
+          "rule": 109
+        },
+        {
+          "probability": 0.00046351345168735313,
+          "is_correct": false,
+          "option_id": "opt_2",
+          "rule": 72
+        },
+        {
+          "probability": 0.00046351345168735313,
+          "is_correct": false,
+          "option_id": "opt_3",
+          "rule": 16
+        }
+      ]
+    },
+    {
+      "trial_id": "rule_110_t1",
+      "rule_number": 110,
+      "time_step": 1,
+      "candidate_probabilities": [
+        {
+          "probability": 0.25,
+          "is_correct": true,
+          "option_id": "opt_0",
+          "rule": 110
+        },
+        {
+          "probability": 0.25,
+          "is_correct": false,
+          "option_id": "opt_1",
+          "rule": 109
+        },
+        {
+          "probability": 0.25,
+          "is_correct": false,
+          "option_id": "opt_2",
+          "rule": 106
+        },
+        {
+          "probability": 0.25,
+          "is_correct": false,
+          "option_id": "opt_3",
+          "rule": 215
+        }
+      ]
+    },
+    {
+      "trial_id": "rule_110_t2",
+      "rule_number": 110,
+      "time_step": 2,
+      "candidate_probabilities": [
+        {
+          "probability": 0.25,
+          "is_correct": true,
+          "option_id": "opt_0",
+          "rule": 110
+        },
+        {
+          "probability": 0.25,
+          "is_correct": false,
+          "option_id": "opt_1",
+          "rule": 109
+        },
+        {
+          "probability": 0.25,
+          "is_correct": false,
+          "option_id": "opt_2",
+          "rule": 106
+        },
+        {
+          "probability": 0.25,
+          "is_correct": false,
+          "option_id": "opt_3",
+          "rule": 72
+        }
+      ]
+    },
+    {
+      "trial_id": "rule_110_t3",
+      "rule_number": 110,
+      "time_step": 3,
+      "candidate_probabilities": [
+        {
+          "probability": 0.25,
+          "is_correct": true,
+          "option_id": "opt_0",
+          "rule": 110
+        },
+        {
+          "probability": 0.25,
+          "is_correct": false,
+          "option_id": "opt_1",
+          "rule": 109
+        },
+        {
+          "probability": 0.25,
+          "is_correct": false,
+          "option_id": "opt_2",
+          "rule": 106
+        },
+        {
+          "probability": 0.25,
+          "is_correct": false,
+          "option_id": "opt_3",
+          "rule": 0
+        }
+      ]
+    },
+    {
+      "trial_id": "rule_110_t4",
+      "rule_number": 110,
+      "time_step": 4,
+      "candidate_probabilities": [
+        {
+          "probability": 0.25,
+          "is_correct": true,
+          "option_id": "opt_0",
+          "rule": 110
+        },
+        {
+          "probability": 0.25,
+          "is_correct": false,
+          "option_id": "opt_1",
+          "rule": 109
+        },
+        {
+          "probability": 0.25,
+          "is_correct": false,
+          "option_id": "opt_2",
+          "rule": 106
+        },
+        {
+          "probability": 0.25,
+          "is_correct": false,
+          "option_id": "opt_3",
+          "rule": 118
+        }
+      ]
+    },
+    {
+      "trial_id": "rule_110_t5",
+      "rule_number": 110,
+      "time_step": 5,
+      "candidate_probabilities": [
+        {
+          "probability": 0.25,
+          "is_correct": true,
+          "option_id": "opt_0",
+          "rule": 110
+        },
+        {
+          "probability": 0.25,
+          "is_correct": false,
+          "option_id": "opt_1",
+          "rule": 111
+        },
+        {
+          "probability": 0.25,
+          "is_correct": false,
+          "option_id": "opt_2",
+          "rule": 106
+        },
+        {
+          "probability": 0.25,
+          "is_correct": false,
+          "option_id": "opt_3",
+          "rule": 254
+        }
+      ]
+    },
+    {
+      "trial_id": "rule_110_t6",
+      "rule_number": 110,
+      "time_step": 6,
+      "candidate_probabilities": [
+        {
+          "probability": 0.25,
+          "is_correct": true,
+          "option_id": "opt_0",
+          "rule": 110
+        },
+        {
+          "probability": 0.25,
+          "is_correct": false,
+          "option_id": "opt_1",
+          "rule": 109
+        },
+        {
+          "probability": 0.25,
+          "is_correct": false,
+          "option_id": "opt_2",
+          "rule": 106
+        },
+        {
+          "probability": 0.25,
+          "is_correct": false,
+          "option_id": "opt_3",
+          "rule": 5
+        }
+      ]
+    }
+  ],
+  "model_config": {
+    "num_particles": 20,
+    "num_rejuv_steps": 3,
+    "decision_temperature": 3.0,
+    "max_depth": 5,
+    "epsilon": 0.2,
+    "p_leaf": 0.5,
+    "model_type": "resource_rational",
+    "ca_width": 17
+  },
+  "generated_at": "2025-12-16T03:18:50",
+  "num_trials": 42
+}

@@ -1,0 +1,2168 @@
+{
+  "participant_id": "Mitch",
+  "experiment_id": "ca_rule_inference_v1_sequential",
+  "version": "2.0",
+  "start_time": "2025-12-16T19:02:54.465Z",
+  "end_time": "2025-12-16T19:09:13.079Z",
+  "total_duration_minutes": 6.310233333333333,
+  "num_trials": 42,
+  "num_ratings": 168,
+  "trials": [
+    {
+      "trial_id": "rule_108_t1",
+      "rule_number": 108,
+      "time_step": 1,
+      "rule_class": "Class II - Periodic nested triangles",
+      "candidate_order": [
+        1,
+        2,
+        0,
+        3
+      ],
+      "ratings": [
+        {
+          "candidate_index": 0,
+          "option_id": "opt_1",
+          "candidate_rule": 107,
+          "is_correct": false,
+          "rating": 5,
+          "response_time_ms": 3660,
+          "timestamp": "2025-12-16T19:02:58.128Z"
+        },
+        {
+          "candidate_index": 1,
+          "option_id": "opt_2",
+          "candidate_rule": 154,
+          "is_correct": false,
+          "rating": 3,
+          "response_time_ms": 1974,
+          "timestamp": "2025-12-16T19:03:00.404Z"
+        },
+        {
+          "candidate_index": 2,
+          "option_id": "opt_0",
+          "candidate_rule": 108,
+          "is_correct": true,
+          "rating": 1,
+          "response_time_ms": 1883,
+          "timestamp": "2025-12-16T19:03:02.587Z"
+        },
+        {
+          "candidate_index": 3,
+          "option_id": "opt_3",
+          "candidate_rule": 170,
+          "is_correct": false,
+          "rating": 7,
+          "response_time_ms": 3820,
+          "timestamp": "2025-12-16T19:03:06.708Z"
+        }
+      ],
+      "total_time_ms": 12543
+    },
+    {
+      "trial_id": "rule_108_t2",
+      "rule_number": 108,
+      "time_step": 2,
+      "rule_class": "Class II - Periodic nested triangles",
+      "candidate_order": [
+        3,
+        2,
+        0,
+        1
+      ],
+      "ratings": [
+        {
+          "candidate_index": 0,
+          "option_id": "opt_3",
+          "candidate_rule": 165,
+          "is_correct": false,
+          "rating": 6,
+          "response_time_ms": 3556,
+          "timestamp": "2025-12-16T19:03:10.566Z"
+        },
+        {
+          "candidate_index": 1,
+          "option_id": "opt_2",
+          "candidate_rule": 58,
+          "is_correct": false,
+          "rating": 5,
+          "response_time_ms": 4205,
+          "timestamp": "2025-12-16T19:03:15.072Z"
+        },
+        {
+          "candidate_index": 2,
+          "option_id": "opt_0",
+          "candidate_rule": 108,
+          "is_correct": true,
+          "rating": 7,
+          "response_time_ms": 1592,
+          "timestamp": "2025-12-16T19:03:16.964Z"
+        },
+        {
+          "candidate_index": 3,
+          "option_id": "opt_1",
+          "candidate_rule": 109,
+          "is_correct": false,
+          "rating": 1,
+          "response_time_ms": 2337,
+          "timestamp": "2025-12-16T19:03:19.602Z"
+        }
+      ],
+      "total_time_ms": 12894
+    },
+    {
+      "trial_id": "rule_108_t3",
+      "rule_number": 108,
+      "time_step": 3,
+      "rule_class": "Class II - Periodic nested triangles",
+      "candidate_order": [
+        1,
+        0,
+        2,
+        3
+      ],
+      "ratings": [
+        {
+          "candidate_index": 0,
+          "option_id": "opt_1",
+          "candidate_rule": 107,
+          "is_correct": false,
+          "rating": 4,
+          "response_time_ms": 5442,
+          "timestamp": "2025-12-16T19:03:25.347Z"
+        },
+        {
+          "candidate_index": 1,
+          "option_id": "opt_0",
+          "candidate_rule": 108,
+          "is_correct": true,
+          "rating": 7,
+          "response_time_ms": 1050,
+          "timestamp": "2025-12-16T19:03:26.697Z"
+        },
+        {
+          "candidate_index": 2,
+          "option_id": "opt_2",
+          "candidate_rule": 156,
+          "is_correct": false,
+          "rating": 7,
+          "response_time_ms": 1679,
+          "timestamp": "2025-12-16T19:03:28.676Z"
+        },
+        {
+          "candidate_index": 3,
+          "option_id": "opt_3",
+          "candidate_rule": 77,
+          "is_correct": false,
+          "rating": 6,
+          "response_time_ms": 2591,
+          "timestamp": "2025-12-16T19:03:31.568Z"
+        }
+      ],
+      "total_time_ms": 11966
+    },
+    {
+      "trial_id": "rule_108_t4",
+      "rule_number": 108,
+      "time_step": 4,
+      "rule_class": "Class II - Periodic nested triangles",
+      "candidate_order": [
+        1,
+        3,
+        0,
+        2
+      ],
+      "ratings": [
+        {
+          "candidate_index": 0,
+          "option_id": "opt_1",
+          "candidate_rule": 109,
+          "is_correct": false,
+          "rating": 6,
+          "response_time_ms": 3171,
+          "timestamp": "2025-12-16T19:03:35.042Z"
+        },
+        {
+          "candidate_index": 1,
+          "option_id": "opt_3",
+          "candidate_rule": 24,
+          "is_correct": false,
+          "rating": 3,
+          "response_time_ms": 1989,
+          "timestamp": "2025-12-16T19:03:37.331Z"
+        },
+        {
+          "candidate_index": 2,
+          "option_id": "opt_0",
+          "candidate_rule": 108,
+          "is_correct": true,
+          "rating": 7,
+          "response_time_ms": 1084,
+          "timestamp": "2025-12-16T19:03:38.716Z"
+        },
+        {
+          "candidate_index": 3,
+          "option_id": "opt_2",
+          "candidate_rule": 36,
+          "is_correct": false,
+          "rating": 5,
+          "response_time_ms": 2074,
+          "timestamp": "2025-12-16T19:03:41.091Z"
+        }
+      ],
+      "total_time_ms": 9523
+    },
+    {
+      "trial_id": "rule_108_t5",
+      "rule_number": 108,
+      "time_step": 5,
+      "rule_class": "Class II - Periodic nested triangles",
+      "candidate_order": [
+        3,
+        0,
+        2,
+        1
+      ],
+      "ratings": [
+        {
+          "candidate_index": 0,
+          "option_id": "opt_3",
+          "candidate_rule": 185,
+          "is_correct": false,
+          "rating": 2,
+          "response_time_ms": 2007,
+          "timestamp": "2025-12-16T19:03:43.400Z"
+        },
+        {
+          "candidate_index": 1,
+          "option_id": "opt_0",
+          "candidate_rule": 108,
+          "is_correct": true,
+          "rating": 7,
+          "response_time_ms": 923,
+          "timestamp": "2025-12-16T19:03:44.624Z"
+        },
+        {
+          "candidate_index": 2,
+          "option_id": "opt_2",
+          "candidate_rule": 27,
+          "is_correct": false,
+          "rating": 1,
+          "response_time_ms": 6343,
+          "timestamp": "2025-12-16T19:03:51.267Z"
+        },
+        {
+          "candidate_index": 3,
+          "option_id": "opt_1",
+          "candidate_rule": 107,
+          "is_correct": false,
+          "rating": 2,
+          "response_time_ms": 2000,
+          "timestamp": "2025-12-16T19:03:53.568Z"
+        }
+      ],
+      "total_time_ms": 12477
+    },
+    {
+      "trial_id": "rule_108_t6",
+      "rule_number": 108,
+      "time_step": 6,
+      "rule_class": "Class II - Periodic nested triangles",
+      "candidate_order": [
+        1,
+        2,
+        3,
+        0
+      ],
+      "ratings": [
+        {
+          "candidate_index": 0,
+          "option_id": "opt_1",
+          "candidate_rule": 109,
+          "is_correct": false,
+          "rating": 7,
+          "response_time_ms": 1334,
+          "timestamp": "2025-12-16T19:03:55.204Z"
+        },
+        {
+          "candidate_index": 1,
+          "option_id": "opt_2",
+          "candidate_rule": 72,
+          "is_correct": false,
+          "rating": 7,
+          "response_time_ms": 3603,
+          "timestamp": "2025-12-16T19:03:59.108Z"
+        },
+        {
+          "candidate_index": 2,
+          "option_id": "opt_3",
+          "candidate_rule": 16,
+          "is_correct": false,
+          "rating": 4,
+          "response_time_ms": 3149,
+          "timestamp": "2025-12-16T19:04:02.558Z"
+        },
+        {
+          "candidate_index": 3,
+          "option_id": "opt_0",
+          "candidate_rule": 108,
+          "is_correct": true,
+          "rating": 7,
+          "response_time_ms": 1062,
+          "timestamp": "2025-12-16T19:04:03.921Z"
+        }
+      ],
+      "total_time_ms": 10353
+    },
+    {
+      "trial_id": "rule_005_t1",
+      "rule_number": 5,
+      "time_step": 1,
+      "rule_class": "Class II - Periodic structures",
+      "candidate_order": [
+        1,
+        2,
+        3,
+        0
+      ],
+      "ratings": [
+        {
+          "candidate_index": 0,
+          "option_id": "opt_1",
+          "candidate_rule": 6,
+          "is_correct": false,
+          "rating": 1,
+          "response_time_ms": 6624,
+          "timestamp": "2025-12-16T19:04:10.847Z"
+        },
+        {
+          "candidate_index": 1,
+          "option_id": "opt_2",
+          "candidate_rule": 19,
+          "is_correct": false,
+          "rating": 7,
+          "response_time_ms": 1388,
+          "timestamp": "2025-12-16T19:04:12.534Z"
+        },
+        {
+          "candidate_index": 2,
+          "option_id": "opt_3",
+          "candidate_rule": 239,
+          "is_correct": false,
+          "rating": 4,
+          "response_time_ms": 2700,
+          "timestamp": "2025-12-16T19:04:15.535Z"
+        },
+        {
+          "candidate_index": 3,
+          "option_id": "opt_0",
+          "candidate_rule": 5,
+          "is_correct": true,
+          "rating": 1,
+          "response_time_ms": 1399,
+          "timestamp": "2025-12-16T19:04:17.235Z"
+        }
+      ],
+      "total_time_ms": 13314
+    },
+    {
+      "trial_id": "rule_005_t2",
+      "rule_number": 5,
+      "time_step": 2,
+      "rule_class": "Class II - Periodic structures",
+      "candidate_order": [
+        0,
+        3,
+        2,
+        1
+      ],
+      "ratings": [
+        {
+          "candidate_index": 0,
+          "option_id": "opt_0",
+          "candidate_rule": 5,
+          "is_correct": true,
+          "rating": 2,
+          "response_time_ms": 4924,
+          "timestamp": "2025-12-16T19:04:22.460Z"
+        },
+        {
+          "candidate_index": 1,
+          "option_id": "opt_3",
+          "candidate_rule": 93,
+          "is_correct": false,
+          "rating": 2,
+          "response_time_ms": 1916,
+          "timestamp": "2025-12-16T19:04:24.677Z"
+        },
+        {
+          "candidate_index": 2,
+          "option_id": "opt_2",
+          "candidate_rule": 33,
+          "is_correct": false,
+          "rating": 7,
+          "response_time_ms": 1612,
+          "timestamp": "2025-12-16T19:04:26.590Z"
+        },
+        {
+          "candidate_index": 3,
+          "option_id": "opt_1",
+          "candidate_rule": 6,
+          "is_correct": false,
+          "rating": 1,
+          "response_time_ms": 1363,
+          "timestamp": "2025-12-16T19:04:28.253Z"
+        }
+      ],
+      "total_time_ms": 11018
+    },
+    {
+      "trial_id": "rule_005_t3",
+      "rule_number": 5,
+      "time_step": 3,
+      "rule_class": "Class II - Periodic structures",
+      "candidate_order": [
+        1,
+        0,
+        2,
+        3
+      ],
+      "ratings": [
+        {
+          "candidate_index": 0,
+          "option_id": "opt_1",
+          "candidate_rule": 4,
+          "is_correct": false,
+          "rating": 5,
+          "response_time_ms": 2268,
+          "timestamp": "2025-12-16T19:04:30.823Z"
+        },
+        {
+          "candidate_index": 1,
+          "option_id": "opt_0",
+          "candidate_rule": 5,
+          "is_correct": true,
+          "rating": 7,
+          "response_time_ms": 1130,
+          "timestamp": "2025-12-16T19:04:32.254Z"
+        },
+        {
+          "candidate_index": 2,
+          "option_id": "opt_2",
+          "candidate_rule": 43,
+          "is_correct": false,
+          "rating": 1,
+          "response_time_ms": 1510,
+          "timestamp": "2025-12-16T19:04:34.065Z"
+        },
+        {
+          "candidate_index": 3,
+          "option_id": "opt_3",
+          "candidate_rule": 113,
+          "is_correct": false,
+          "rating": 1,
+          "response_time_ms": 2712,
+          "timestamp": "2025-12-16T19:04:37.078Z"
+        }
+      ],
+      "total_time_ms": 8825
+    },
+    {
+      "trial_id": "rule_005_t4",
+      "rule_number": 5,
+      "time_step": 4,
+      "rule_class": "Class II - Periodic structures",
+      "candidate_order": [
+        3,
+        0,
+        1,
+        2
+      ],
+      "ratings": [
+        {
+          "candidate_index": 0,
+          "option_id": "opt_3",
+          "candidate_rule": 123,
+          "is_correct": false,
+          "rating": 1,
+          "response_time_ms": 1736,
+          "timestamp": "2025-12-16T19:04:39.116Z"
+        },
+        {
+          "candidate_index": 1,
+          "option_id": "opt_0",
+          "candidate_rule": 5,
+          "is_correct": true,
+          "rating": 7,
+          "response_time_ms": 1150,
+          "timestamp": "2025-12-16T19:04:40.566Z"
+        },
+        {
+          "candidate_index": 2,
+          "option_id": "opt_1",
+          "candidate_rule": 4,
+          "is_correct": false,
+          "rating": 3,
+          "response_time_ms": 3330,
+          "timestamp": "2025-12-16T19:04:44.196Z"
+        },
+        {
+          "candidate_index": 3,
+          "option_id": "opt_2",
+          "candidate_rule": 62,
+          "is_correct": false,
+          "rating": 1,
+          "response_time_ms": 2534,
+          "timestamp": "2025-12-16T19:04:47.030Z"
+        }
+      ],
+      "total_time_ms": 9953
+    },
+    {
+      "trial_id": "rule_005_t5",
+      "rule_number": 5,
+      "time_step": 5,
+      "rule_class": "Class II - Periodic structures",
+      "candidate_order": [
+        2,
+        3,
+        1,
+        0
+      ],
+      "ratings": [
+        {
+          "candidate_index": 0,
+          "option_id": "opt_2",
+          "candidate_rule": 132,
+          "is_correct": false,
+          "rating": 4,
+          "response_time_ms": 2176,
+          "timestamp": "2025-12-16T19:04:49.508Z"
+        },
+        {
+          "candidate_index": 1,
+          "option_id": "opt_3",
+          "candidate_rule": 2,
+          "is_correct": false,
+          "rating": 1,
+          "response_time_ms": 3375,
+          "timestamp": "2025-12-16T19:04:53.183Z"
+        },
+        {
+          "candidate_index": 2,
+          "option_id": "opt_1",
+          "candidate_rule": 6,
+          "is_correct": false,
+          "rating": 2,
+          "response_time_ms": 1548,
+          "timestamp": "2025-12-16T19:04:55.033Z"
+        },
+        {
+          "candidate_index": 3,
+          "option_id": "opt_0",
+          "candidate_rule": 5,
+          "is_correct": true,
+          "rating": 7,
+          "response_time_ms": 4029,
+          "timestamp": "2025-12-16T19:04:59.362Z"
+        }
+      ],
+      "total_time_ms": 12332
+    },
+    {
+      "trial_id": "rule_005_t6",
+      "rule_number": 5,
+      "time_step": 6,
+      "rule_class": "Class II - Periodic structures",
+      "candidate_order": [
+        2,
+        1,
+        0,
+        3
+      ],
+      "ratings": [
+        {
+          "candidate_index": 0,
+          "option_id": "opt_2",
+          "candidate_rule": 51,
+          "is_correct": false,
+          "rating": 2,
+          "response_time_ms": 2925,
+          "timestamp": "2025-12-16T19:05:02.589Z"
+        },
+        {
+          "candidate_index": 1,
+          "option_id": "opt_1",
+          "candidate_rule": 6,
+          "is_correct": false,
+          "rating": 1,
+          "response_time_ms": 1465,
+          "timestamp": "2025-12-16T19:05:04.355Z"
+        },
+        {
+          "candidate_index": 2,
+          "option_id": "opt_0",
+          "candidate_rule": 5,
+          "is_correct": true,
+          "rating": 7,
+          "response_time_ms": 4366,
+          "timestamp": "2025-12-16T19:05:09.022Z"
+        },
+        {
+          "candidate_index": 3,
+          "option_id": "opt_3",
+          "candidate_rule": 78,
+          "is_correct": false,
+          "rating": 2,
+          "response_time_ms": 4387,
+          "timestamp": "2025-12-16T19:05:13.710Z"
+        }
+      ],
+      "total_time_ms": 14347
+    },
+    {
+      "trial_id": "rule_054_t1",
+      "rule_number": 54,
+      "time_step": 1,
+      "rule_class": "Class IV - Complex localized structures",
+      "candidate_order": [
+        2,
+        3,
+        1,
+        0
+      ],
+      "ratings": [
+        {
+          "candidate_index": 0,
+          "option_id": "opt_2",
+          "candidate_rule": 110,
+          "is_correct": false,
+          "rating": 1,
+          "response_time_ms": 2491,
+          "timestamp": "2025-12-16T19:05:16.502Z"
+        },
+        {
+          "candidate_index": 1,
+          "option_id": "opt_3",
+          "candidate_rule": 56,
+          "is_correct": false,
+          "rating": 4,
+          "response_time_ms": 2304,
+          "timestamp": "2025-12-16T19:05:19.107Z"
+        },
+        {
+          "candidate_index": 2,
+          "option_id": "opt_1",
+          "candidate_rule": 53,
+          "is_correct": false,
+          "rating": 1,
+          "response_time_ms": 1558,
+          "timestamp": "2025-12-16T19:05:20.965Z"
+        },
+        {
+          "candidate_index": 3,
+          "option_id": "opt_0",
+          "candidate_rule": 54,
+          "is_correct": true,
+          "rating": 1,
+          "response_time_ms": 1616,
+          "timestamp": "2025-12-16T19:05:22.882Z"
+        }
+      ],
+      "total_time_ms": 9172
+    },
+    {
+      "trial_id": "rule_054_t2",
+      "rule_number": 54,
+      "time_step": 2,
+      "rule_class": "Class IV - Complex localized structures",
+      "candidate_order": [
+        1,
+        3,
+        0,
+        2
+      ],
+      "ratings": [
+        {
+          "candidate_index": 0,
+          "option_id": "opt_1",
+          "candidate_rule": 55,
+          "is_correct": false,
+          "rating": 1,
+          "response_time_ms": 1983,
+          "timestamp": "2025-12-16T19:05:25.166Z"
+        },
+        {
+          "candidate_index": 1,
+          "option_id": "opt_3",
+          "candidate_rule": 77,
+          "is_correct": false,
+          "rating": 1,
+          "response_time_ms": 1466,
+          "timestamp": "2025-12-16T19:05:26.933Z"
+        },
+        {
+          "candidate_index": 2,
+          "option_id": "opt_0",
+          "candidate_rule": 54,
+          "is_correct": true,
+          "rating": 1,
+          "response_time_ms": 1548,
+          "timestamp": "2025-12-16T19:05:28.782Z"
+        },
+        {
+          "candidate_index": 3,
+          "option_id": "opt_2",
+          "candidate_rule": 106,
+          "is_correct": false,
+          "rating": 1,
+          "response_time_ms": 911,
+          "timestamp": "2025-12-16T19:05:29.994Z"
+        }
+      ],
+      "total_time_ms": 7113
+    },
+    {
+      "trial_id": "rule_054_t3",
+      "rule_number": 54,
+      "time_step": 3,
+      "rule_class": "Class IV - Complex localized structures",
+      "candidate_order": [
+        3,
+        1,
+        2,
+        0
+      ],
+      "ratings": [
+        {
+          "candidate_index": 0,
+          "option_id": "opt_3",
+          "candidate_rule": 220,
+          "is_correct": false,
+          "rating": 1,
+          "response_time_ms": 2411,
+          "timestamp": "2025-12-16T19:05:32.707Z"
+        },
+        {
+          "candidate_index": 1,
+          "option_id": "opt_1",
+          "candidate_rule": 53,
+          "is_correct": false,
+          "rating": 5,
+          "response_time_ms": 2184,
+          "timestamp": "2025-12-16T19:05:35.192Z"
+        },
+        {
+          "candidate_index": 2,
+          "option_id": "opt_2",
+          "candidate_rule": 110,
+          "is_correct": false,
+          "rating": 3,
+          "response_time_ms": 1636,
+          "timestamp": "2025-12-16T19:05:37.129Z"
+        },
+        {
+          "candidate_index": 3,
+          "option_id": "opt_0",
+          "candidate_rule": 54,
+          "is_correct": true,
+          "rating": 1,
+          "response_time_ms": 1225,
+          "timestamp": "2025-12-16T19:05:38.653Z"
+        }
+      ],
+      "total_time_ms": 8659
+    },
+    {
+      "trial_id": "rule_054_t4",
+      "rule_number": 54,
+      "time_step": 4,
+      "rule_class": "Class IV - Complex localized structures",
+      "candidate_order": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "ratings": [
+        {
+          "candidate_index": 0,
+          "option_id": "opt_0",
+          "candidate_rule": 54,
+          "is_correct": true,
+          "rating": 1,
+          "response_time_ms": 1387,
+          "timestamp": "2025-12-16T19:05:40.341Z"
+        },
+        {
+          "candidate_index": 1,
+          "option_id": "opt_1",
+          "candidate_rule": 55,
+          "is_correct": false,
+          "rating": 6,
+          "response_time_ms": 2642,
+          "timestamp": "2025-12-16T19:05:43.284Z"
+        },
+        {
+          "candidate_index": 2,
+          "option_id": "opt_2",
+          "candidate_rule": 106,
+          "is_correct": false,
+          "rating": 2,
+          "response_time_ms": 1199,
+          "timestamp": "2025-12-16T19:05:44.783Z"
+        },
+        {
+          "candidate_index": 3,
+          "option_id": "opt_3",
+          "candidate_rule": 68,
+          "is_correct": false,
+          "rating": 1,
+          "response_time_ms": 2409,
+          "timestamp": "2025-12-16T19:05:47.493Z"
+        }
+      ],
+      "total_time_ms": 8840
+    },
+    {
+      "trial_id": "rule_054_t5",
+      "rule_number": 54,
+      "time_step": 5,
+      "rule_class": "Class IV - Complex localized structures",
+      "candidate_order": [
+        2,
+        3,
+        0,
+        1
+      ],
+      "ratings": [
+        {
+          "candidate_index": 0,
+          "option_id": "opt_2",
+          "candidate_rule": 110,
+          "is_correct": false,
+          "rating": 1,
+          "response_time_ms": 1451,
+          "timestamp": "2025-12-16T19:05:49.246Z"
+        },
+        {
+          "candidate_index": 1,
+          "option_id": "opt_3",
+          "candidate_rule": 206,
+          "is_correct": false,
+          "rating": 2,
+          "response_time_ms": 946,
+          "timestamp": "2025-12-16T19:05:50.492Z"
+        },
+        {
+          "candidate_index": 2,
+          "option_id": "opt_0",
+          "candidate_rule": 54,
+          "is_correct": true,
+          "rating": 3,
+          "response_time_ms": 1859,
+          "timestamp": "2025-12-16T19:05:52.652Z"
+        },
+        {
+          "candidate_index": 3,
+          "option_id": "opt_1",
+          "candidate_rule": 55,
+          "is_correct": false,
+          "rating": 5,
+          "response_time_ms": 1720,
+          "timestamp": "2025-12-16T19:05:54.673Z"
+        }
+      ],
+      "total_time_ms": 7180
+    },
+    {
+      "trial_id": "rule_054_t6",
+      "rule_number": 54,
+      "time_step": 6,
+      "rule_class": "Class IV - Complex localized structures",
+      "candidate_order": [
+        2,
+        3,
+        0,
+        1
+      ],
+      "ratings": [
+        {
+          "candidate_index": 0,
+          "option_id": "opt_2",
+          "candidate_rule": 106,
+          "is_correct": false,
+          "rating": 5,
+          "response_time_ms": 1928,
+          "timestamp": "2025-12-16T19:05:56.903Z"
+        },
+        {
+          "candidate_index": 1,
+          "option_id": "opt_3",
+          "candidate_rule": 197,
+          "is_correct": false,
+          "rating": 7,
+          "response_time_ms": 1773,
+          "timestamp": "2025-12-16T19:05:58.977Z"
+        },
+        {
+          "candidate_index": 2,
+          "option_id": "opt_0",
+          "candidate_rule": 54,
+          "is_correct": true,
+          "rating": 2,
+          "response_time_ms": 1757,
+          "timestamp": "2025-12-16T19:06:01.035Z"
+        },
+        {
+          "candidate_index": 3,
+          "option_id": "opt_1",
+          "candidate_rule": 53,
+          "is_correct": false,
+          "rating": 2,
+          "response_time_ms": 1112,
+          "timestamp": "2025-12-16T19:06:02.447Z"
+        }
+      ],
+      "total_time_ms": 7775
+    },
+    {
+      "trial_id": "rule_110_t1",
+      "rule_number": 110,
+      "time_step": 1,
+      "rule_class": "Class IV - Complex - Turing complete",
+      "candidate_order": [
+        1,
+        3,
+        0,
+        2
+      ],
+      "ratings": [
+        {
+          "candidate_index": 0,
+          "option_id": "opt_1",
+          "candidate_rule": 109,
+          "is_correct": false,
+          "rating": 1,
+          "response_time_ms": 2778,
+          "timestamp": "2025-12-16T19:06:05.527Z"
+        },
+        {
+          "candidate_index": 1,
+          "option_id": "opt_3",
+          "candidate_rule": 215,
+          "is_correct": false,
+          "rating": 1,
+          "response_time_ms": 2012,
+          "timestamp": "2025-12-16T19:06:07.839Z"
+        },
+        {
+          "candidate_index": 2,
+          "option_id": "opt_0",
+          "candidate_rule": 110,
+          "is_correct": true,
+          "rating": 1,
+          "response_time_ms": 1070,
+          "timestamp": "2025-12-16T19:06:09.210Z"
+        },
+        {
+          "candidate_index": 3,
+          "option_id": "opt_2",
+          "candidate_rule": 106,
+          "is_correct": false,
+          "rating": 4,
+          "response_time_ms": 1716,
+          "timestamp": "2025-12-16T19:06:11.227Z"
+        }
+      ],
+      "total_time_ms": 8780
+    },
+    {
+      "trial_id": "rule_110_t2",
+      "rule_number": 110,
+      "time_step": 2,
+      "rule_class": "Class IV - Complex - Turing complete",
+      "candidate_order": [
+        3,
+        0,
+        2,
+        1
+      ],
+      "ratings": [
+        {
+          "candidate_index": 0,
+          "option_id": "opt_3",
+          "candidate_rule": 72,
+          "is_correct": false,
+          "rating": 7,
+          "response_time_ms": 1132,
+          "timestamp": "2025-12-16T19:06:12.661Z"
+        },
+        {
+          "candidate_index": 1,
+          "option_id": "opt_0",
+          "candidate_rule": 110,
+          "is_correct": true,
+          "rating": 6,
+          "response_time_ms": 1191,
+          "timestamp": "2025-12-16T19:06:14.154Z"
+        },
+        {
+          "candidate_index": 2,
+          "option_id": "opt_2",
+          "candidate_rule": 106,
+          "is_correct": false,
+          "rating": 5,
+          "response_time_ms": 948,
+          "timestamp": "2025-12-16T19:06:15.403Z"
+        },
+        {
+          "candidate_index": 3,
+          "option_id": "opt_1",
+          "candidate_rule": 109,
+          "is_correct": false,
+          "rating": 7,
+          "response_time_ms": 1099,
+          "timestamp": "2025-12-16T19:06:16.803Z"
+        }
+      ],
+      "total_time_ms": 5575
+    },
+    {
+      "trial_id": "rule_110_t3",
+      "rule_number": 110,
+      "time_step": 3,
+      "rule_class": "Class IV - Complex - Turing complete",
+      "candidate_order": [
+        3,
+        0,
+        1,
+        2
+      ],
+      "ratings": [
+        {
+          "candidate_index": 0,
+          "option_id": "opt_3",
+          "candidate_rule": 0,
+          "is_correct": false,
+          "rating": 1,
+          "response_time_ms": 3571,
+          "timestamp": "2025-12-16T19:06:20.675Z"
+        },
+        {
+          "candidate_index": 1,
+          "option_id": "opt_0",
+          "candidate_rule": 110,
+          "is_correct": true,
+          "rating": 1,
+          "response_time_ms": 2232,
+          "timestamp": "2025-12-16T19:06:23.207Z"
+        },
+        {
+          "candidate_index": 2,
+          "option_id": "opt_1",
+          "candidate_rule": 109,
+          "is_correct": false,
+          "rating": 7,
+          "response_time_ms": 1024,
+          "timestamp": "2025-12-16T19:06:24.533Z"
+        },
+        {
+          "candidate_index": 3,
+          "option_id": "opt_2",
+          "candidate_rule": 106,
+          "is_correct": false,
+          "rating": 2,
+          "response_time_ms": 1663,
+          "timestamp": "2025-12-16T19:06:26.497Z"
+        }
+      ],
+      "total_time_ms": 9694
+    },
+    {
+      "trial_id": "rule_110_t4",
+      "rule_number": 110,
+      "time_step": 4,
+      "rule_class": "Class IV - Complex - Turing complete",
+      "candidate_order": [
+        3,
+        0,
+        2,
+        1
+      ],
+      "ratings": [
+        {
+          "candidate_index": 0,
+          "option_id": "opt_3",
+          "candidate_rule": 118,
+          "is_correct": false,
+          "rating": 1,
+          "response_time_ms": 1497,
+          "timestamp": "2025-12-16T19:06:28.295Z"
+        },
+        {
+          "candidate_index": 1,
+          "option_id": "opt_0",
+          "candidate_rule": 110,
+          "is_correct": true,
+          "rating": 1,
+          "response_time_ms": 1178,
+          "timestamp": "2025-12-16T19:06:29.774Z"
+        },
+        {
+          "candidate_index": 2,
+          "option_id": "opt_2",
+          "candidate_rule": 106,
+          "is_correct": false,
+          "rating": 1,
+          "response_time_ms": 1095,
+          "timestamp": "2025-12-16T19:06:31.171Z"
+        },
+        {
+          "candidate_index": 3,
+          "option_id": "opt_1",
+          "candidate_rule": 109,
+          "is_correct": false,
+          "rating": 1,
+          "response_time_ms": 1012,
+          "timestamp": "2025-12-16T19:06:32.483Z"
+        }
+      ],
+      "total_time_ms": 5986
+    },
+    {
+      "trial_id": "rule_110_t5",
+      "rule_number": 110,
+      "time_step": 5,
+      "rule_class": "Class IV - Complex - Turing complete",
+      "candidate_order": [
+        1,
+        0,
+        2,
+        3
+      ],
+      "ratings": [
+        {
+          "candidate_index": 0,
+          "option_id": "opt_1",
+          "candidate_rule": 111,
+          "is_correct": false,
+          "rating": 7,
+          "response_time_ms": 1817,
+          "timestamp": "2025-12-16T19:06:34.601Z"
+        },
+        {
+          "candidate_index": 1,
+          "option_id": "opt_0",
+          "candidate_rule": 110,
+          "is_correct": true,
+          "rating": 7,
+          "response_time_ms": 1711,
+          "timestamp": "2025-12-16T19:06:36.613Z"
+        },
+        {
+          "candidate_index": 2,
+          "option_id": "opt_2",
+          "candidate_rule": 106,
+          "is_correct": false,
+          "rating": 7,
+          "response_time_ms": 2254,
+          "timestamp": "2025-12-16T19:06:39.167Z"
+        },
+        {
+          "candidate_index": 3,
+          "option_id": "opt_3",
+          "candidate_rule": 254,
+          "is_correct": false,
+          "rating": 1,
+          "response_time_ms": 1367,
+          "timestamp": "2025-12-16T19:06:40.835Z"
+        }
+      ],
+      "total_time_ms": 8352
+    },
+    {
+      "trial_id": "rule_110_t6",
+      "rule_number": 110,
+      "time_step": 6,
+      "rule_class": "Class IV - Complex - Turing complete",
+      "candidate_order": [
+        3,
+        0,
+        2,
+        1
+      ],
+      "ratings": [
+        {
+          "candidate_index": 0,
+          "option_id": "opt_3",
+          "candidate_rule": 5,
+          "is_correct": false,
+          "rating": 7,
+          "response_time_ms": 1198,
+          "timestamp": "2025-12-16T19:06:42.335Z"
+        },
+        {
+          "candidate_index": 1,
+          "option_id": "opt_0",
+          "candidate_rule": 110,
+          "is_correct": true,
+          "rating": 7,
+          "response_time_ms": 3994,
+          "timestamp": "2025-12-16T19:06:46.630Z"
+        },
+        {
+          "candidate_index": 2,
+          "option_id": "opt_2",
+          "candidate_rule": 106,
+          "is_correct": false,
+          "rating": 7,
+          "response_time_ms": 1854,
+          "timestamp": "2025-12-16T19:06:48.785Z"
+        },
+        {
+          "candidate_index": 3,
+          "option_id": "opt_1",
+          "candidate_rule": 109,
+          "is_correct": false,
+          "rating": 4,
+          "response_time_ms": 1849,
+          "timestamp": "2025-12-16T19:06:50.935Z"
+        }
+      ],
+      "total_time_ms": 10100
+    },
+    {
+      "trial_id": "rule_060_t1",
+      "rule_number": 60,
+      "time_step": 1,
+      "rule_class": "Class III - Chaotic XOR-based",
+      "candidate_order": [
+        2,
+        3,
+        1,
+        0
+      ],
+      "ratings": [
+        {
+          "candidate_index": 0,
+          "option_id": "opt_2",
+          "candidate_rule": 154,
+          "is_correct": false,
+          "rating": 2,
+          "response_time_ms": 5669,
+          "timestamp": "2025-12-16T19:06:56.906Z"
+        },
+        {
+          "candidate_index": 1,
+          "option_id": "opt_3",
+          "candidate_rule": 238,
+          "is_correct": false,
+          "rating": 2,
+          "response_time_ms": 841,
+          "timestamp": "2025-12-16T19:06:58.048Z"
+        },
+        {
+          "candidate_index": 2,
+          "option_id": "opt_1",
+          "candidate_rule": 59,
+          "is_correct": false,
+          "rating": 2,
+          "response_time_ms": 1825,
+          "timestamp": "2025-12-16T19:07:00.174Z"
+        },
+        {
+          "candidate_index": 3,
+          "option_id": "opt_0",
+          "candidate_rule": 60,
+          "is_correct": true,
+          "rating": 5,
+          "response_time_ms": 1944,
+          "timestamp": "2025-12-16T19:07:02.419Z"
+        }
+      ],
+      "total_time_ms": 11483
+    },
+    {
+      "trial_id": "rule_060_t2",
+      "rule_number": 60,
+      "time_step": 2,
+      "rule_class": "Class III - Chaotic XOR-based",
+      "candidate_order": [
+        3,
+        0,
+        1,
+        2
+      ],
+      "ratings": [
+        {
+          "candidate_index": 0,
+          "option_id": "opt_3",
+          "candidate_rule": 192,
+          "is_correct": false,
+          "rating": 1,
+          "response_time_ms": 1505,
+          "timestamp": "2025-12-16T19:07:04.224Z"
+        },
+        {
+          "candidate_index": 1,
+          "option_id": "opt_0",
+          "candidate_rule": 60,
+          "is_correct": true,
+          "rating": 7,
+          "response_time_ms": 1008,
+          "timestamp": "2025-12-16T19:07:05.533Z"
+        },
+        {
+          "candidate_index": 2,
+          "option_id": "opt_1",
+          "candidate_rule": 59,
+          "is_correct": false,
+          "rating": 7,
+          "response_time_ms": 1360,
+          "timestamp": "2025-12-16T19:07:07.194Z"
+        },
+        {
+          "candidate_index": 3,
+          "option_id": "opt_2",
+          "candidate_rule": 26,
+          "is_correct": false,
+          "rating": 6,
+          "response_time_ms": 1391,
+          "timestamp": "2025-12-16T19:07:08.886Z"
+        }
+      ],
+      "total_time_ms": 6467
+    },
+    {
+      "trial_id": "rule_060_t3",
+      "rule_number": 60,
+      "time_step": 3,
+      "rule_class": "Class III - Chaotic XOR-based",
+      "candidate_order": [
+        1,
+        0,
+        2,
+        3
+      ],
+      "ratings": [
+        {
+          "candidate_index": 0,
+          "option_id": "opt_1",
+          "candidate_rule": 61,
+          "is_correct": false,
+          "rating": 3,
+          "response_time_ms": 1757,
+          "timestamp": "2025-12-16T19:07:10.945Z"
+        },
+        {
+          "candidate_index": 1,
+          "option_id": "opt_0",
+          "candidate_rule": 60,
+          "is_correct": true,
+          "rating": 4,
+          "response_time_ms": 1174,
+          "timestamp": "2025-12-16T19:07:12.420Z"
+        },
+        {
+          "candidate_index": 2,
+          "option_id": "opt_2",
+          "candidate_rule": 126,
+          "is_correct": false,
+          "rating": 2,
+          "response_time_ms": 1013,
+          "timestamp": "2025-12-16T19:07:13.733Z"
+        },
+        {
+          "candidate_index": 3,
+          "option_id": "opt_3",
+          "candidate_rule": 33,
+          "is_correct": false,
+          "rating": 1,
+          "response_time_ms": 1235,
+          "timestamp": "2025-12-16T19:07:15.268Z"
+        }
+      ],
+      "total_time_ms": 6383
+    },
+    {
+      "trial_id": "rule_060_t4",
+      "rule_number": 60,
+      "time_step": 4,
+      "rule_class": "Class III - Chaotic XOR-based",
+      "candidate_order": [
+        3,
+        0,
+        2,
+        1
+      ],
+      "ratings": [
+        {
+          "candidate_index": 0,
+          "option_id": "opt_3",
+          "candidate_rule": 50,
+          "is_correct": false,
+          "rating": 7,
+          "response_time_ms": 963,
+          "timestamp": "2025-12-16T19:07:16.533Z"
+        },
+        {
+          "candidate_index": 1,
+          "option_id": "opt_0",
+          "candidate_rule": 60,
+          "is_correct": true,
+          "rating": 7,
+          "response_time_ms": 1120,
+          "timestamp": "2025-12-16T19:07:17.953Z"
+        },
+        {
+          "candidate_index": 2,
+          "option_id": "opt_2",
+          "candidate_rule": 22,
+          "is_correct": false,
+          "rating": 7,
+          "response_time_ms": 1263,
+          "timestamp": "2025-12-16T19:07:19.517Z"
+        },
+        {
+          "candidate_index": 3,
+          "option_id": "opt_1",
+          "candidate_rule": 61,
+          "is_correct": false,
+          "rating": 7,
+          "response_time_ms": 1242,
+          "timestamp": "2025-12-16T19:07:21.059Z"
+        }
+      ],
+      "total_time_ms": 5792
+    },
+    {
+      "trial_id": "rule_060_t5",
+      "rule_number": 60,
+      "time_step": 5,
+      "rule_class": "Class III - Chaotic XOR-based",
+      "candidate_order": [
+        3,
+        2,
+        0,
+        1
+      ],
+      "ratings": [
+        {
+          "candidate_index": 0,
+          "option_id": "opt_3",
+          "candidate_rule": 70,
+          "is_correct": false,
+          "rating": 7,
+          "response_time_ms": 1033,
+          "timestamp": "2025-12-16T19:07:22.393Z"
+        },
+        {
+          "candidate_index": 1,
+          "option_id": "opt_2",
+          "candidate_rule": 126,
+          "is_correct": false,
+          "rating": 3,
+          "response_time_ms": 1488,
+          "timestamp": "2025-12-16T19:07:24.183Z"
+        },
+        {
+          "candidate_index": 2,
+          "option_id": "opt_0",
+          "candidate_rule": 60,
+          "is_correct": true,
+          "rating": 7,
+          "response_time_ms": 1075,
+          "timestamp": "2025-12-16T19:07:25.558Z"
+        },
+        {
+          "candidate_index": 3,
+          "option_id": "opt_1",
+          "candidate_rule": 59,
+          "is_correct": false,
+          "rating": 7,
+          "response_time_ms": 1202,
+          "timestamp": "2025-12-16T19:07:27.061Z"
+        }
+      ],
+      "total_time_ms": 6001
+    },
+    {
+      "trial_id": "rule_060_t6",
+      "rule_number": 60,
+      "time_step": 6,
+      "rule_class": "Class III - Chaotic XOR-based",
+      "candidate_order": [
+        1,
+        2,
+        3,
+        0
+      ],
+      "ratings": [
+        {
+          "candidate_index": 0,
+          "option_id": "opt_1",
+          "candidate_rule": 61,
+          "is_correct": false,
+          "rating": 7,
+          "response_time_ms": 1654,
+          "timestamp": "2025-12-16T19:07:29.017Z"
+        },
+        {
+          "candidate_index": 1,
+          "option_id": "opt_2",
+          "candidate_rule": 18,
+          "is_correct": false,
+          "rating": 2,
+          "response_time_ms": 1754,
+          "timestamp": "2025-12-16T19:07:31.072Z"
+        },
+        {
+          "candidate_index": 2,
+          "option_id": "opt_3",
+          "candidate_rule": 120,
+          "is_correct": false,
+          "rating": 1,
+          "response_time_ms": 1069,
+          "timestamp": "2025-12-16T19:07:32.442Z"
+        },
+        {
+          "candidate_index": 3,
+          "option_id": "opt_0",
+          "candidate_rule": 60,
+          "is_correct": true,
+          "rating": 7,
+          "response_time_ms": 1346,
+          "timestamp": "2025-12-16T19:07:34.089Z"
+        }
+      ],
+      "total_time_ms": 7028
+    },
+    {
+      "trial_id": "rule_030_t1",
+      "rule_number": 30,
+      "time_step": 1,
+      "rule_class": "Class III - Chaotic - used for randomness",
+      "candidate_order": [
+        2,
+        0,
+        1,
+        3
+      ],
+      "ratings": [
+        {
+          "candidate_index": 0,
+          "option_id": "opt_2",
+          "candidate_rule": 90,
+          "is_correct": false,
+          "rating": 1,
+          "response_time_ms": 1753,
+          "timestamp": "2025-12-16T19:07:36.144Z"
+        },
+        {
+          "candidate_index": 1,
+          "option_id": "opt_0",
+          "candidate_rule": 30,
+          "is_correct": true,
+          "rating": 7,
+          "response_time_ms": 1094,
+          "timestamp": "2025-12-16T19:07:37.538Z"
+        },
+        {
+          "candidate_index": 2,
+          "option_id": "opt_1",
+          "candidate_rule": 31,
+          "is_correct": false,
+          "rating": 7,
+          "response_time_ms": 829,
+          "timestamp": "2025-12-16T19:07:38.668Z"
+        },
+        {
+          "candidate_index": 3,
+          "option_id": "opt_3",
+          "candidate_rule": 232,
+          "is_correct": false,
+          "rating": 2,
+          "response_time_ms": 1300,
+          "timestamp": "2025-12-16T19:07:40.269Z"
+        }
+      ],
+      "total_time_ms": 6180
+    },
+    {
+      "trial_id": "rule_030_t2",
+      "rule_number": 30,
+      "time_step": 2,
+      "rule_class": "Class III - Chaotic - used for randomness",
+      "candidate_order": [
+        0,
+        2,
+        3,
+        1
+      ],
+      "ratings": [
+        {
+          "candidate_index": 0,
+          "option_id": "opt_0",
+          "candidate_rule": 30,
+          "is_correct": true,
+          "rating": 7,
+          "response_time_ms": 1739,
+          "timestamp": "2025-12-16T19:07:42.310Z"
+        },
+        {
+          "candidate_index": 1,
+          "option_id": "opt_2",
+          "candidate_rule": 122,
+          "is_correct": false,
+          "rating": 3,
+          "response_time_ms": 1567,
+          "timestamp": "2025-12-16T19:07:44.177Z"
+        },
+        {
+          "candidate_index": 2,
+          "option_id": "opt_3",
+          "candidate_rule": 8,
+          "is_correct": false,
+          "rating": 3,
+          "response_time_ms": 1213,
+          "timestamp": "2025-12-16T19:07:45.690Z"
+        },
+        {
+          "candidate_index": 3,
+          "option_id": "opt_1",
+          "candidate_rule": 31,
+          "is_correct": false,
+          "rating": 1,
+          "response_time_ms": 1132,
+          "timestamp": "2025-12-16T19:07:47.124Z"
+        }
+      ],
+      "total_time_ms": 6855
+    },
+    {
+      "trial_id": "rule_030_t3",
+      "rule_number": 30,
+      "time_step": 3,
+      "rule_class": "Class III - Chaotic - used for randomness",
+      "candidate_order": [
+        1,
+        0,
+        2,
+        3
+      ],
+      "ratings": [
+        {
+          "candidate_index": 0,
+          "option_id": "opt_1",
+          "candidate_rule": 29,
+          "is_correct": false,
+          "rating": 6,
+          "response_time_ms": 1883,
+          "timestamp": "2025-12-16T19:07:49.310Z"
+        },
+        {
+          "candidate_index": 1,
+          "option_id": "opt_0",
+          "candidate_rule": 30,
+          "is_correct": true,
+          "rating": 5,
+          "response_time_ms": 1819,
+          "timestamp": "2025-12-16T19:07:51.429Z"
+        },
+        {
+          "candidate_index": 2,
+          "option_id": "opt_2",
+          "candidate_rule": 90,
+          "is_correct": false,
+          "rating": 4,
+          "response_time_ms": 2044,
+          "timestamp": "2025-12-16T19:07:53.774Z"
+        },
+        {
+          "candidate_index": 3,
+          "option_id": "opt_3",
+          "candidate_rule": 44,
+          "is_correct": false,
+          "rating": 7,
+          "response_time_ms": 945,
+          "timestamp": "2025-12-16T19:07:55.020Z"
+        }
+      ],
+      "total_time_ms": 7897
+    },
+    {
+      "trial_id": "rule_030_t4",
+      "rule_number": 30,
+      "time_step": 4,
+      "rule_class": "Class III - Chaotic - used for randomness",
+      "candidate_order": [
+        1,
+        0,
+        2,
+        3
+      ],
+      "ratings": [
+        {
+          "candidate_index": 0,
+          "option_id": "opt_1",
+          "candidate_rule": 31,
+          "is_correct": false,
+          "rating": 7,
+          "response_time_ms": 1240,
+          "timestamp": "2025-12-16T19:07:56.562Z"
+        },
+        {
+          "candidate_index": 1,
+          "option_id": "opt_0",
+          "candidate_rule": 30,
+          "is_correct": true,
+          "rating": 5,
+          "response_time_ms": 1347,
+          "timestamp": "2025-12-16T19:07:58.211Z"
+        },
+        {
+          "candidate_index": 2,
+          "option_id": "opt_2",
+          "candidate_rule": 150,
+          "is_correct": false,
+          "rating": 2,
+          "response_time_ms": 1317,
+          "timestamp": "2025-12-16T19:07:59.828Z"
+        },
+        {
+          "candidate_index": 3,
+          "option_id": "opt_3",
+          "candidate_rule": 137,
+          "is_correct": false,
+          "rating": 3,
+          "response_time_ms": 2485,
+          "timestamp": "2025-12-16T19:08:02.615Z"
+        }
+      ],
+      "total_time_ms": 7595
+    },
+    {
+      "trial_id": "rule_030_t5",
+      "rule_number": 30,
+      "time_step": 5,
+      "rule_class": "Class III - Chaotic - used for randomness",
+      "candidate_order": [
+        3,
+        0,
+        2,
+        1
+      ],
+      "ratings": [
+        {
+          "candidate_index": 0,
+          "option_id": "opt_3",
+          "candidate_rule": 136,
+          "is_correct": false,
+          "rating": 3,
+          "response_time_ms": 6870,
+          "timestamp": "2025-12-16T19:08:09.787Z"
+        },
+        {
+          "candidate_index": 1,
+          "option_id": "opt_0",
+          "candidate_rule": 30,
+          "is_correct": true,
+          "rating": 1,
+          "response_time_ms": 1291,
+          "timestamp": "2025-12-16T19:08:11.379Z"
+        },
+        {
+          "candidate_index": 2,
+          "option_id": "opt_2",
+          "candidate_rule": 90,
+          "is_correct": false,
+          "rating": 1,
+          "response_time_ms": 992,
+          "timestamp": "2025-12-16T19:08:12.671Z"
+        },
+        {
+          "candidate_index": 3,
+          "option_id": "opt_1",
+          "candidate_rule": 31,
+          "is_correct": false,
+          "rating": 7,
+          "response_time_ms": 1124,
+          "timestamp": "2025-12-16T19:08:14.096Z"
+        }
+      ],
+      "total_time_ms": 11481
+    },
+    {
+      "trial_id": "rule_030_t6",
+      "rule_number": 30,
+      "time_step": 6,
+      "rule_class": "Class III - Chaotic - used for randomness",
+      "candidate_order": [
+        3,
+        1,
+        0,
+        2
+      ],
+      "ratings": [
+        {
+          "candidate_index": 0,
+          "option_id": "opt_3",
+          "candidate_rule": 57,
+          "is_correct": false,
+          "rating": 2,
+          "response_time_ms": 1477,
+          "timestamp": "2025-12-16T19:08:15.876Z"
+        },
+        {
+          "candidate_index": 1,
+          "option_id": "opt_1",
+          "candidate_rule": 31,
+          "is_correct": false,
+          "rating": 7,
+          "response_time_ms": 1029,
+          "timestamp": "2025-12-16T19:08:17.205Z"
+        },
+        {
+          "candidate_index": 2,
+          "option_id": "opt_0",
+          "candidate_rule": 30,
+          "is_correct": true,
+          "rating": 7,
+          "response_time_ms": 1255,
+          "timestamp": "2025-12-16T19:08:18.762Z"
+        },
+        {
+          "candidate_index": 3,
+          "option_id": "opt_2",
+          "candidate_rule": 26,
+          "is_correct": false,
+          "rating": 6,
+          "response_time_ms": 947,
+          "timestamp": "2025-12-16T19:08:20.010Z"
+        }
+      ],
+      "total_time_ms": 5914
+    },
+    {
+      "trial_id": "rule_032_t1",
+      "rule_number": 32,
+      "time_step": 1,
+      "rule_class": "Class I - Fixed - pattern dependent",
+      "candidate_order": [
+        1,
+        2,
+        0,
+        3
+      ],
+      "ratings": [
+        {
+          "candidate_index": 0,
+          "option_id": "opt_1",
+          "candidate_rule": 33,
+          "is_correct": false,
+          "rating": 3,
+          "response_time_ms": 2922,
+          "timestamp": "2025-12-16T19:08:23.234Z"
+        },
+        {
+          "candidate_index": 1,
+          "option_id": "opt_2",
+          "candidate_rule": 0,
+          "is_correct": false,
+          "rating": 7,
+          "response_time_ms": 1508,
+          "timestamp": "2025-12-16T19:08:25.042Z"
+        },
+        {
+          "candidate_index": 2,
+          "option_id": "opt_0",
+          "candidate_rule": 32,
+          "is_correct": true,
+          "rating": 6,
+          "response_time_ms": 1278,
+          "timestamp": "2025-12-16T19:08:26.621Z"
+        },
+        {
+          "candidate_index": 3,
+          "option_id": "opt_3",
+          "candidate_rule": 212,
+          "is_correct": false,
+          "rating": 7,
+          "response_time_ms": 993,
+          "timestamp": "2025-12-16T19:08:27.915Z"
+        }
+      ],
+      "total_time_ms": 7904
+    },
+    {
+      "trial_id": "rule_032_t2",
+      "rule_number": 32,
+      "time_step": 2,
+      "rule_class": "Class I - Fixed - pattern dependent",
+      "candidate_order": [
+        2,
+        0,
+        1,
+        3
+      ],
+      "ratings": [
+        {
+          "candidate_index": 0,
+          "option_id": "opt_2",
+          "candidate_rule": 136,
+          "is_correct": false,
+          "rating": 7,
+          "response_time_ms": 1052,
+          "timestamp": "2025-12-16T19:08:29.268Z"
+        },
+        {
+          "candidate_index": 1,
+          "option_id": "opt_0",
+          "candidate_rule": 32,
+          "is_correct": true,
+          "rating": 7,
+          "response_time_ms": 952,
+          "timestamp": "2025-12-16T19:08:30.521Z"
+        },
+        {
+          "candidate_index": 2,
+          "option_id": "opt_1",
+          "candidate_rule": 33,
+          "is_correct": false,
+          "rating": 6,
+          "response_time_ms": 1341,
+          "timestamp": "2025-12-16T19:08:32.163Z"
+        },
+        {
+          "candidate_index": 3,
+          "option_id": "opt_3",
+          "candidate_rule": 65,
+          "is_correct": false,
+          "rating": 6,
+          "response_time_ms": 1137,
+          "timestamp": "2025-12-16T19:08:33.601Z"
+        }
+      ],
+      "total_time_ms": 5687
+    },
+    {
+      "trial_id": "rule_032_t3",
+      "rule_number": 32,
+      "time_step": 3,
+      "rule_class": "Class I - Fixed - pattern dependent",
+      "candidate_order": [
+        2,
+        0,
+        3,
+        1
+      ],
+      "ratings": [
+        {
+          "candidate_index": 0,
+          "option_id": "opt_2",
+          "candidate_rule": 248,
+          "is_correct": false,
+          "rating": 7,
+          "response_time_ms": 1095,
+          "timestamp": "2025-12-16T19:08:34.998Z"
+        },
+        {
+          "candidate_index": 1,
+          "option_id": "opt_0",
+          "candidate_rule": 32,
+          "is_correct": true,
+          "rating": 7,
+          "response_time_ms": 850,
+          "timestamp": "2025-12-16T19:08:36.149Z"
+        },
+        {
+          "candidate_index": 2,
+          "option_id": "opt_3",
+          "candidate_rule": 158,
+          "is_correct": false,
+          "rating": 7,
+          "response_time_ms": 915,
+          "timestamp": "2025-12-16T19:08:37.364Z"
+        },
+        {
+          "candidate_index": 3,
+          "option_id": "opt_1",
+          "candidate_rule": 31,
+          "is_correct": false,
+          "rating": 2,
+          "response_time_ms": 2342,
+          "timestamp": "2025-12-16T19:08:40.007Z"
+        }
+      ],
+      "total_time_ms": 6406
+    },
+    {
+      "trial_id": "rule_032_t4",
+      "rule_number": 32,
+      "time_step": 4,
+      "rule_class": "Class I - Fixed - pattern dependent",
+      "candidate_order": [
+        2,
+        3,
+        1,
+        0
+      ],
+      "ratings": [
+        {
+          "candidate_index": 0,
+          "option_id": "opt_2",
+          "candidate_rule": 254,
+          "is_correct": false,
+          "rating": 7,
+          "response_time_ms": 848,
+          "timestamp": "2025-12-16T19:08:41.157Z"
+        },
+        {
+          "candidate_index": 1,
+          "option_id": "opt_3",
+          "candidate_rule": 62,
+          "is_correct": false,
+          "rating": 7,
+          "response_time_ms": 706,
+          "timestamp": "2025-12-16T19:08:42.164Z"
+        },
+        {
+          "candidate_index": 2,
+          "option_id": "opt_1",
+          "candidate_rule": 33,
+          "is_correct": false,
+          "rating": 2,
+          "response_time_ms": 1187,
+          "timestamp": "2025-12-16T19:08:43.652Z"
+        },
+        {
+          "candidate_index": 3,
+          "option_id": "opt_0",
+          "candidate_rule": 32,
+          "is_correct": true,
+          "rating": 7,
+          "response_time_ms": 991,
+          "timestamp": "2025-12-16T19:08:44.944Z"
+        }
+      ],
+      "total_time_ms": 4937
+    },
+    {
+      "trial_id": "rule_032_t5",
+      "rule_number": 32,
+      "time_step": 5,
+      "rule_class": "Class I - Fixed - pattern dependent",
+      "candidate_order": [
+        3,
+        1,
+        2,
+        0
+      ],
+      "ratings": [
+        {
+          "candidate_index": 0,
+          "option_id": "opt_3",
+          "candidate_rule": 88,
+          "is_correct": false,
+          "rating": 7,
+          "response_time_ms": 2494,
+          "timestamp": "2025-12-16T19:08:47.741Z"
+        },
+        {
+          "candidate_index": 1,
+          "option_id": "opt_1",
+          "candidate_rule": 31,
+          "is_correct": false,
+          "rating": 1,
+          "response_time_ms": 1420,
+          "timestamp": "2025-12-16T19:08:49.462Z"
+        },
+        {
+          "candidate_index": 2,
+          "option_id": "opt_2",
+          "candidate_rule": 160,
+          "is_correct": false,
+          "rating": 7,
+          "response_time_ms": 982,
+          "timestamp": "2025-12-16T19:08:50.745Z"
+        },
+        {
+          "candidate_index": 3,
+          "option_id": "opt_0",
+          "candidate_rule": 32,
+          "is_correct": true,
+          "rating": 7,
+          "response_time_ms": 799,
+          "timestamp": "2025-12-16T19:08:51.845Z"
+        }
+      ],
+      "total_time_ms": 6901
+    },
+    {
+      "trial_id": "rule_032_t6",
+      "rule_number": 32,
+      "time_step": 6,
+      "rule_class": "Class I - Fixed - pattern dependent",
+      "candidate_order": [
+        2,
+        1,
+        0,
+        3
+      ],
+      "ratings": [
+        {
+          "candidate_index": 0,
+          "option_id": "opt_2",
+          "candidate_rule": 251,
+          "is_correct": false,
+          "rating": 1,
+          "response_time_ms": 898,
+          "timestamp": "2025-12-16T19:08:53.045Z"
+        },
+        {
+          "candidate_index": 1,
+          "option_id": "opt_1",
+          "candidate_rule": 31,
+          "is_correct": false,
+          "rating": 1,
+          "response_time_ms": 1117,
+          "timestamp": "2025-12-16T19:08:54.463Z"
+        },
+        {
+          "candidate_index": 2,
+          "option_id": "opt_0",
+          "candidate_rule": 32,
+          "is_correct": true,
+          "rating": 7,
+          "response_time_ms": 2785,
+          "timestamp": "2025-12-16T19:08:57.549Z"
+        },
+        {
+          "candidate_index": 3,
+          "option_id": "opt_3",
+          "candidate_rule": 90,
+          "is_correct": false,
+          "rating": 7,
+          "response_time_ms": 845,
+          "timestamp": "2025-12-16T19:08:58.695Z"
+        }
+      ],
+      "total_time_ms": 6851
+    }
+  ],
+  "summary": {
+    "total_ratings": 168,
+    "mean_rating_correct": 4.976190476190476,
+    "mean_rating_incorrect": 3.8492063492063493,
+    "map_accuracy": 0.4047619047619047,
+    "accuracy_by_time_step": {
+      "1": 0.6666666666666666,
+      "2": 0.42857142857142855,
+      "3": 0.42857142857142855,
+      "4": 0.2857142857142857,
+      "5": 0.2857142857142857,
+      "6": 0.3333333333333333
+    }
+  }
+}
